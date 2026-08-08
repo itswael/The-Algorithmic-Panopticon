@@ -36,10 +36,12 @@ Our team employs a mixed-method approach combining technical investigation, soci
 ## Repository Structure
 
 ```
-Phase1/          # Technical & Systems Analysis
-Phase2/          # Ethical Framework & Discourse Analysis  
-Phase3/          # Case Studies Development
-Proposal/        # Original research proposal
+Proposal/               # Original research proposal
+PreviousLiteratures/    # Prior literature reviewed for the project
+Phase1/                 # Technical & Systems Analysis deliverables (notebook, breakdown, synthesis)
+ai-ethics-research/     # Phase 1 conceptual models, threat analysis, and ethical framework docs
+Phase2/                 # Ethical Framework & Discourse Analysis (planned)
+Phase3/                 # Case Studies Development (planned)
 ```
 
 ## Expected Contributions
@@ -107,7 +109,7 @@ This is an academic research project. For questions or academic collaboration in
 
 ## License
 
-This research is conducted under academic guidelines and institutional policies. Please respect ethical research standards when referencing or building upon this work.
+The contents of this repository are licensed under the MIT License — see [LICENSE](./LICENSE). This research is also conducted under academic guidelines and institutional policies; please respect ethical research standards when referencing or building upon this work.
 
 ---
 
